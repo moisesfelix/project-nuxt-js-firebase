@@ -1,0 +1,23 @@
+{
+  "name": "project-nuxt-js-firebase",
+  "version": "1.0.0",
+  "description": "This project aims to study NuxtJS, VueJS and Firebase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesfelix/project-nuxt-js-firebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisesfelix/project-nuxt-js-firebase/issues"
+  },
+  "homepage": "https://github.com/moisesfelix/project-nuxt-js-firebase#readme",
+  "dependencies": {
+    "firebase": "^9.18.0"
+  }
+}
